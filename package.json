@@ -1,0 +1,1 @@
+{"description":"make.fun news-image-20261125 entry: 25 November 2026 world news in one front-page image","license":"MIT","main":"main.ts","name":"makefun-news-image-20261125","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
